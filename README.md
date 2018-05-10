@@ -1,4 +1,5 @@
 # PCSE
+# Matthew Hoffman - mrh3645
 
 Assignments in OMP/MPI
 
