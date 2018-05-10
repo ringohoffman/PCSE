@@ -1,4 +1,4 @@
-#Matthew Hoffman - mrh3645
+# Matthew Hoffman - mrh3645
 
 Assignments in OMP/MPI
 
